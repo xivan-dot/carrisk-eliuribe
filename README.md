@@ -1,2 +1,2 @@
 # carrisk-eliuribe
-modelo IA para prediccion de precio al comprar un videojuego
+modelo IA para prediccion de riesgo al conducir un vehiculo
